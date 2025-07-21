@@ -1,6 +1,4 @@
 # CDN-2025.1-PROJ
-**Circuitos do projeto de avaliação de risco de queimadas.
-Circuitos Digitais, turma N de 2025.1, professora Denise Stringhini**
 
 ## Integrantes
 Andressa Ginevro de Souza
