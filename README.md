@@ -4,7 +4,9 @@ Circuitos Digitais, turma N de 2025.1, professora Denise Stringhini**
 
 ## Integrantes
 Andressa Ginevro de Souza
+
 Beatriz Prado Soche
+
 Matheus de Souza Kawasaki Campos
 
 ## Instruções de uso
