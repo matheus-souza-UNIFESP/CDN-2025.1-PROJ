@@ -1,14 +1,17 @@
 # CDN-2025.1-PROJ
 
 ## Integrantes
-Andressa Ginevro de Souza
+Andressa Ginevro de Souza          RA: 170202
 
-Beatriz Prado Soche
+Beatriz Prado Soche                RA: 176112
 
-Matheus de Souza Kawasaki Campos
+Matheus de Souza Kawasaki Campos   RA: 170344
 
 ## Instruções de uso
-Abra o arquivo "CIRCUITO-COMPLETO.panda" no WiredPanda 4.1.12.
+1. Baixe todos os arquivos dessa pasta
+2. Abra o arquivo "CIRCUITO-COMPLETO.panda" no WiredPanda 4.1.12.
+3. Ajuste as entradas para o valor desejado de cada sensor (possível visualização no display)
+   
 ### Gatilhos das entradas
 Pressione os botões a seguir para alterar o valor das respectivas variáveis:
 
